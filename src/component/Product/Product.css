@@ -1,0 +1,30 @@
+.product-items img {
+    width: 286px;
+    height: 286px;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.product-items {
+    border: 1px solid saddlebrown;
+    margin: 20px;
+    width: 310px;
+    height: 550px;
+    position: relative;
+    border-radius: 10px;
+}
+
+.text-Sec {
+    font-size: large;
+    margin-top: 0%;
+    margin-left: 20px;
+}
+
+.btn {
+    width: 100%;
+    background-color: crimson;
+    border: none;
+    position: absolute;
+    bottom: 0%;
+    border-radius: 10px;
+}
